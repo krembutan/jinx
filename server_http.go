@@ -29,7 +29,7 @@ type Server struct {
 func opening() string {
 	return `
 -------------------------------
-      WELCOME TO WILDRIFT
+      J	  I	  N	  X
 -------------------------------
 LISTENING ON PORT : %d
 ...............................
